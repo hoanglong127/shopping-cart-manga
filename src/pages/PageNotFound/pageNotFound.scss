@@ -1,0 +1,22 @@
+.page-not-found {
+  padding: 10rem 0 4rem;
+
+  &__content {
+    padding: 4rem;
+    background-color: #fff;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    p {
+      font-size: 1.8rem;
+      margin-bottom: 2rem;
+    }
+
+    a {
+      color: #009e7f;
+    }
+  }
+}

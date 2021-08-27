@@ -1,0 +1,42 @@
+.footer {
+  padding: 2rem 0;
+  background-color: #fff;
+  text-align: center;
+
+  &__logo {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #009e7f;
+    margin-bottom: 2rem;
+
+    span {
+      color: #333;
+    }
+  }
+
+  &__social {
+    margin-bottom: 2rem;
+
+    a {
+      display: inline-block;
+      margin: 0 1.5rem;
+      width: 30px;
+      height: 30px;
+      text-align: center;
+      line-height: 30px;
+      color: #a5a5a5;
+      border: 1px solid #a5a5a5;
+      transition: all 0.3s ease;
+
+      &:hover {
+        color: #009e7f;
+        border-color: #009e7f;
+      }
+    }
+  }
+
+  &__copyright {
+    font-size: 1.4rem;
+    margin-bottom: 0;
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "ma": 101,
+    "tenDanhMuc": "Conan",
+    "biDanh": "conan"
+  },
+  {
+    "ma": 102,
+    "tenDanhMuc": "One Piece",
+    "biDanh": "one-piece"
+  },
+  {
+    "ma": 103,
+    "tenDanhMuc": "Naruto",
+    "biDanh": "naruto"
+  },
+  {
+    "ma": 104,
+    "tenDanhMuc": "Doraemon",
+    "biDanh": "doraemon"
+  },
+  {
+    "ma": 105,
+    "tenDanhMuc": "Thanh gươm diệt quỷ",
+    "biDanh": "thanh-guom-diet-quy"
+  },
+  {
+    "ma": 106,
+    "tenDanhMuc": "Dr. Stone",
+    "biDanh": "dr-stone"
+  },
+  {
+    "ma": 107,
+    "tenDanhMuc": "One punch man",
+    "biDanh": "one-punch-man"
+  },
+  {
+    "ma": 108,
+    "tenDanhMuc": "Light Novel",
+    "biDanh": "light-novel"
+  }
+]

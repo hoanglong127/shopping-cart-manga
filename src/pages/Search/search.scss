@@ -1,0 +1,15 @@
+.search {
+  padding: 10rem 0 4rem;
+
+  &__content {
+    padding: 4rem;
+    background-color: #fff;
+    min-height: 500px;
+  }
+
+  &__title {
+    font-size: 2.4rem;
+    font-weight: 400;
+    margin-bottom: 4rem;
+  }
+}

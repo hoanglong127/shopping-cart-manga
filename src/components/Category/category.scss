@@ -1,0 +1,43 @@
+.category {
+  position: sticky;
+  top: 10rem;
+  padding: 2rem 0;
+  background-color: #fff;
+
+  &__title {
+    padding: 0 2rem;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+  }
+
+  &__list {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  &__button {
+    padding: 1rem 2rem;
+    background-color: transparent;
+    color: #333;
+    border: none;
+    border-left: 3px solid transparent;
+    transition: all 0.3s ease;
+
+    &:focus {
+      outline: none;
+    }
+
+    &:hover {
+      padding-left: 3rem;
+      text-decoration: none;
+      color: #333;
+      border-color: #009e7f;
+    }
+
+    &--active {
+      padding-left: 3rem;
+      border-color: #009e7f;
+    }
+  }
+}
